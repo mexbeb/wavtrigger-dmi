@@ -15,24 +15,24 @@ Demo video here:
 
 For this module, I made a really simple menu, with different sections:
 
-- Play Kit
+- **Play Kit**
 
 This is where you can make the module sound by feeding MIDI notes to it.
 Standard drum MIDI mapping is used.
 
-- Drum Kit
+- **Drum Kit**
 
 Here you can select the samples for the drum machine, from a minimum of 0 (no sample selected) to a maximum of 2048 (maximum number of samples supported by the Wavtrigger board)
 
-- Sidechain Out
+- **Sidechain Out**
 
 Here you can select which drum out will be your sidechain out, that can be used as an input when using compressor and/or ducker modules
 
-- Save Kit
+- **Save Kit**
 
 This is the menu section where you can save your kits, select one of the 10 kits and push select. Your kit will be saved in the EEPROM of the Arduino
 
-- Load Kit
+- **Load Kit**
 
 Here is where you can load your saved kits.
 There's also another option called "Wipe All" which deletes all the saved kits.
