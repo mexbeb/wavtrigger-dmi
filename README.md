@@ -62,7 +62,7 @@ Here you can select which drum out will be your sidechain out. This can be used 
 ![7](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/f2504d5f-56a5-48ab-8df2-efe1168cc384)
 ![8](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/a169c9ef-ccc4-4dcc-933e-16dc2672d88f)
 
-This is the menu section where you can save your kits, select one of the 10 kits and push select. Your kit will be saved in the EEPROM of the Arduino
+This is the menu section where you can save your kits, choose one of the 10 kits and push "Select". Your kit will be saved in the EEPROM of the Arduino
 
 ### **Load Kit**
  
