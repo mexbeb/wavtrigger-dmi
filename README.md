@@ -7,7 +7,7 @@ Demo video here:
 
 ### Features:
 - Stereo 44.1 KHz 16 bit CD quality audio
-- 16 notes polyphony
+- 14 notes polyphony
 - MIDI In 
 - Sidechain Out
 - Up to 10 drum kits can be saved in the Arduino EEPROM and can be recalled from the "Load Kit" menu
@@ -71,3 +71,7 @@ There's also another option called "Wipe All" which deletes all the saved kits.
 - 1 x 1KOhm Resistor
 - 1 x 1N914 Diode
 - 2 x BAT43 diodes (these two combined with the 1K resistor are used to protect the Arduino's pin, as in Hagiwo's circuits)
+
+Thanks to:
+
+- upiir, for the menu implementation -> https://github.com/upiir/arduino_oled_menu
