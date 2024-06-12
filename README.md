@@ -15,7 +15,7 @@ Demo video here:
 
 ## Overview
 
-For this module I made a really simple menu (inspired by upiir's work) with different sections
+For this module I made a really simple menu (inspired by upiir's work) with different sub-menus
 
 ![1](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/43dc5a1d-29b4-4484-9105-4034e073bfdb)
 ![2](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/c74dcdf4-4c33-4803-93ab-7647fb2b753b)
@@ -24,9 +24,26 @@ For this module I made a really simple menu (inspired by upiir's work) with diff
 
 ![3](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/211c1f20-2ee7-469a-95f4-d464966da3e1)
 
-This is where you can make the module sound by feeding MIDI notes to it.
+This is where you can make the module play samples by feeding MIDI notes to it.
 Standard drum MIDI mapping is used.
-
+```
+  Kick     //C1 --> 36
+  Snare    //D1 --> 38
+  Clap     //Eb1 --> 39
+  C Hat    //F#1 --> 42
+  O Hat    //Bb1 --> 46
+  Tom 1    //D2 --> 50 (Hi Tom)
+  Tom 2    //B1 --> 47 (Low-Mid Tom)
+  Tom 3    //G1 --> 43 (Hi Floor Tom)
+  Crash    //C#2 --> 49
+  Ride     //Eb2 --> 51
+  Cowbell  //Ab2 --> 56
+  Conga    //Eb3 --> 63 (Hi Conga)
+  Flexi 1  // --> 82
+  Flexi 2  // --> 83
+  Flexi 3  // --> 84
+  Flexi 4  // --> 85
+```
 ### **Drum Kit**
 
 ![4](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/d753f4b5-28df-4fa0-8e70-22c4514fe39a)
@@ -38,7 +55,7 @@ Here you can select the samples for the drum machine, from a minimum of 0 (no sa
 
 ![6](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/d6c77858-7176-4d1b-9b8b-afe3b40737fa)
 
-Here you can select which drum out will be your sidechain out. This can be used as an input when using compressor and/or ducker modules
+Here you can select which drum out will be your sidechain out. This can be used as an input for compressor and/or ducker modules
 
 ### **Save Kit**
 
