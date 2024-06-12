@@ -7,6 +7,7 @@ Demo video here:
 
 ### Features:
 - Stereo 44.1 KHz 16 bit CD quality audio
+- 16 drum kit pieces
 - 14 notes polyphony
 - MIDI In 
 - Sidechain Out
