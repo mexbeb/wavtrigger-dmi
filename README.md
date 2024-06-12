@@ -3,7 +3,7 @@ This project turns an Arduino Nano into an interface to make a drum machine usin
 
 ![Wav_DMI](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/cac4b671-b62f-4e09-94f0-0c97a3f3e7d3)
 
-Demo video here: 
+Demo video here: https://youtu.be/mT6QcL0XK70
 
 ### Features:
 - Stereo 44.1 KHz 16 bit CD quality audio
