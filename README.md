@@ -15,7 +15,7 @@ Demo video here:
 
 ## Overview
 
-For this module I made a really simple menu (inspired by upiir's work) with different sub-menus
+The interface is really simple, I made a menu (inspired by upiir's work) with different sub-menus
 
 ![1](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/43dc5a1d-29b4-4484-9105-4034e073bfdb)
 ![2](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/c74dcdf4-4c33-4803-93ab-7647fb2b753b)
@@ -49,7 +49,7 @@ Standard drum MIDI mapping is used.
 ![4](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/d753f4b5-28df-4fa0-8e70-22c4514fe39a)
 ![5](https://github.com/mexbeb/wavtrigger-dmi/assets/74735686/4ce879d4-5eed-4c3f-b5bd-bb6de4e7ca45)
 
-Here you can select the samples for the drum machine, from a minimum of 0 (no sample selected) to a maximum of 2048 (maximum number of samples supported by the Wavtrigger board)
+Here you can select the samples, from a minimum of 0 (no sample selected) to a maximum of 2048 (maximum number of samples supported by the Wavtrigger board)
 
 ### **Sidechain Out**
 
