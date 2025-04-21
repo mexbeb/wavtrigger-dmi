@@ -1,6 +1,8 @@
 # WavTrigger Drum Machine Interface with Arduino
 This project turns an Arduino Nano into an interface to make a drum machine using the Robertsonics/Sparkfun WavTrigger board (the OG one)
 
+Find the latest version in the ![Releases](https://github.com/mexbeb/wavtrigger-dmi/releases) section!
+
 ###  THE WAVTRIGGER DMI PROJECT RANKED 2ND IN THE ELECTROMAKER OF THE MONTH CONTEST FOR JUNE 2024!
 https://www.electromaker.io/blog/article/electromaker-of-the-month-june-2024-winners
 
